@@ -1,3 +1,4 @@
+![logo](https://github.com/deepakprajapati2004/deepakprajapati2004/blob/main/GitHub-Banner.jpg)
 <h1 align="center">Hi 👋, I'm Deepak Prajapati</h1>
 <h3 align="center">A Passionate Software Engineer from India</h3>
 
